@@ -81,6 +81,8 @@
 			img = images[i];
 			img.style.width = height * parseInt(img.getAttribute('data-width')) / parseInt(img.getAttribute('data-height')) + 'px';
 			img.style.height = height + 'px';
+			img.style.marginRight = margin - 4 + 'px'; // -4 is the negative margin of the inline element
+			img.style.marginBottom = margin + 'px';
 			img.classList.add('layout-completed');
 		}
 
