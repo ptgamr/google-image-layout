@@ -148,7 +148,7 @@ img {
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
-p img {
+p img, .google-image-layout img {
   display: inline;
   margin: 0;
   padding: 0;
@@ -420,4 +420,13 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+
+.google-image-layout img {
+  visibility: hidden;
+}
+
+.google-image-layout img.layout-completed {
+  visibility: visible;
 }
