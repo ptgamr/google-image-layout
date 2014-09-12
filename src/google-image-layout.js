@@ -65,7 +65,7 @@
 			r += parseInt(img.getAttribute('data-width')) / parseInt(img.getAttribute('data-height'));
 		}
 
-		return Math.floor(width / r); //have to round down because Firefox will automatically roundup value with number of decimals > 3
+		return width / r; //have to round down because Firefox will automatically roundup value with number of decimals > 3
 
 	};
 
