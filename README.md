@@ -49,6 +49,14 @@ imgLoad.on( 'done', function( instance ) {
 });
 ```
 
+TODO LIST
+=========
+- Responsive support
+- Append images (for infinite scrolling, loadmore button)
+- More configuration options
+
+
+
 ## License
 MIT license
 
