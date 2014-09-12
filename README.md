@@ -48,3 +48,7 @@ imgLoad.on( 'done', function( instance ) {
   GoogleImageLayout.init();
 });
 ```
+
+## License
+MIT license
+
