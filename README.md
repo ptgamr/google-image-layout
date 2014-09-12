@@ -29,8 +29,8 @@ The maximum height of images in the gallery
 ####.align(element)
 `element` the gallery container which contains images
 
-IMPORTANT NOTICE
-================
+***Important Notice
+===================
 
 Thís plugin requires the image's `width` and `height` have to be known in prior to initialization. If you already have that information, put `data-width` & `data-height` to your image tags.
 
@@ -49,7 +49,7 @@ imgLoad.on( 'done', function( instance ) {
 });
 ```
 
-TODO LIST
+Todo List
 =========
 - Responsive support
 - Append images (for infinite scrolling, loadmore button)
