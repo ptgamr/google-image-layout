@@ -3,8 +3,8 @@
 
 A library help you to build Google like Image Gallery. Vanilla Javascript
 
-DEMO http://ptgamr.github.io/google-image-layout/
-
+DEMO [http://ptgamr.github.io/google-image-layout/](http://ptgamr.github.io/google-image-layout/)
+TUTORIAL [http://trinhtrunganh.com/google-image-layout/](http://trinhtrunganh.com/google-image-layout/)
 
 Documentation
 =============
